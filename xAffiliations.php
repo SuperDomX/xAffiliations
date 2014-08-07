@@ -9,10 +9,12 @@
  * @see radius
  * @link affiliates
  * @todo
+ * @alpha true
+ * @release alpha
  */
 
-	class xAffiliations extends Xengine{
+class xAffiliations extends Xengine{
 
-	}
+}
 
 ?>
