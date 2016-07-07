@@ -6,7 +6,7 @@
  * @author cdpollard@gmail.com
  * @icon network-ring-icon.png
  * @mini glass
- * @see radius
+ * @see clicks
  * @link affiliates
  * @todo
  * @alpha true
