@@ -2,8 +2,8 @@
 /**
  * @name Affiliates
  * @desc Invite affiliates to your domain
- * @version 1.23
- * @author cdpollard@gmail.com
+ * @version v0.1(160710)
+ * @author  @xopherdeep
  * @icon network-ring-icon.png
  * @mini glass
  * @see clicks
